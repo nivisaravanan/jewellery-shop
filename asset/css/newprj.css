@@ -1,0 +1,167 @@
+.nav-item{
+     margin-top: 5px;
+    padding: 35px;
+    font-size: 45px;
+    font-family: 'Tangerine', cursive;
+    /* color: black; */
+    text-align: center;
+    
+}
+.nav-link{
+    color: white;
+   padding-left: 50%;
+}
+.nav-link:hover{
+    color: white;
+   padding-left: 50%;
+}
+.dropdown-item{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 25px;
+   
+}
+.navbar-nav{
+    margin-left: auto;
+    margin-right: auto;
+}
+.carousel-inner{
+    margin-top: 20px;
+}
+ .container h2{
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    font-size: 48px;
+   font-weight: bold; 
+    padding-top: 30px;
+
+}
+.container h3{
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.content1{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.container .cls1{
+    font-family: 'Tangerine', cursive;
+    font-size: 50px;
+    text-align: left;
+}
+/* .para{
+    margin-top: 30px;
+} */
+.card-title{
+    /* display: flex; */
+    text-align: center;
+    font-family: cursive;
+    background-color: black;
+    color: white;
+}
+.card-group{
+    padding: 30px;
+    gap:30px
+    
+}
+.card-body{
+    border-color: black;
+   box-shadow: white;
+   background-color:black;
+}
+.container .coll {
+    text-align: center;
+    font-size:50px ;
+     padding: 50px; 
+     font-family: 'Kaushan Script', cursive;
+} 
+.container .row  .btn btn-primary{
+    background: linear-gradient( top left bottom, 135deg, orange 60%, cyan );
+    border: 18px solid blue; 
+    /* padding: 20px; */
+  overflow: hidden;
+  border: 40px 0px;
+  
+
+}
+.prd .card-deck{
+    padding: 30px;
+}
+.prd .card-title a{
+    color: white;
+}
+.brd .card-body{
+    background-color: white;
+}
+ .grid-container .new{
+    display: grid;
+    /* background-color:wheat; */   
+    padding: 0px;
+    font-size: 20px;
+    margin-left:10px;
+    margin-right: 50px;  
+    text-align: center;
+    grid-template-columns: auto auto;
+     /* border: 5px solid rgb(7, 7, 6);  */
+     box-shadow: 50px; 
+     row-gap:30px;
+    column-gap:50px; 
+}  
+.exe{
+    background-color:whitesmoke;
+   color: black;
+   padding: 20px;
+   border-radius: 2px  solid ;
+    /* opacity: 50%;  */
+   font-size: 19px;
+  display: inline-grid;
+  margin-left: -12px;
+  margin-top: 30px ;
+  margin-bottom:30px ;
+  margin-left:30px ;
+  border:3px solid rgb(230, 230, 230);
+   webkit-box-shadow: 0 0 10px #fff;
+  box-shadow: 0 0 10px #fff;
+} 
+ .new{
+    width: 500px;
+    height: 200px;
+}
+.container{
+    padding: 20px;
+} 
+.check .container-fluid {
+    background-color: rgb(123, 63, 76);
+    color: black;
+
+}
+.check .btn{
+    margin-left:550px ;
+}
+.foot {
+    padding: 50px;
+    background-color: black;
+    color: white;
+}
+.foot  a{
+    color: white; 
+    
+}
+
+
+.foot  .cu{
+     margin-left: -110px;
+     color: white;
+}
+.foot  .lu{
+    margin-left: -50px;
+    color: white;
+}
+.foot  .ul {
+    margin-left: -250px;
+    color: white; 
+}
